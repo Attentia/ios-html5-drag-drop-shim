@@ -13,4 +13,3 @@ export interface Point {
     x: number;
     y: number;
 }
-export as namespace MobileDragDrop;

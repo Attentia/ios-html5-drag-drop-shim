@@ -4,4 +4,3 @@ export interface ScrollOptions {
     velocityFn: (velocity: number, threshold: number) => number;
 }
 export declare const scrollBehaviourDragImageTranslateOverride: DragImageTranslateOverrideFn;
-export as namespace MobileDragDrop;
